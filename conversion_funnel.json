@@ -1,0 +1,14 @@
+[
+  {
+    "event_id": "EV001",
+    "page_visits": 1000,
+    "add_to_cart": 400,
+    "purchases": 250
+  },
+  {
+    "event_id": "EV002",
+    "page_visits": 600,
+    "add_to_cart": 220,
+    "purchases": 150
+  }
+]

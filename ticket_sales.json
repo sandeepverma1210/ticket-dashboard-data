@@ -1,0 +1,24 @@
+[
+  {
+    "sale_id": "S001",
+    "event_id": "EV001",
+    "timestamp": "2025-04-15T10:15:00",
+    "channel": "Web",
+    "ticket_type": "VIP",
+    "quantity": 2,
+    "price_per_ticket": 1500,
+    "promo_code": "SUMMER10",
+    "user_location": "Delhi"
+  },
+  {
+    "sale_id": "S002",
+    "event_id": "EV001",
+    "timestamp": "2025-04-16T12:30:00",
+    "channel": "Mobile",
+    "ticket_type": "Regular",
+    "quantity": 1,
+    "price_per_ticket": 800,
+    "promo_code": "",
+    "user_location": "Mumbai"
+  }
+]
